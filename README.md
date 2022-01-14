@@ -1,16 +1,15 @@
 # Mass-Directory-Scanner
 Admin and webshell Fuzzing Tools
-MASS DIRECTORY SCANNER
   
 #a simple PHP scanner project created by L4ZYG33K with love.
 #This tools scan with Get method response only.
 #Scanning speed depends on your own internet connection
+#This tools can be useful it depends how you use it. So Use it wisely.
 
 
 ##Tested Only on the following distro
 
 Debian
-Arch Linux
 Kali linux
 Parrot Security
 
@@ -35,8 +34,12 @@ Install PHP packages open the terminal and type in as root:
             http://target.com/
             https://target.com/
             
-    
-    
+            
+ #Changelogs
+ 
+     Added more wordlist
+     
+     
     
 ##Greetings to my Org
 
@@ -48,4 +51,3 @@ SQLi & Pentest Training Ground
 
 
 
-[README.txt](https://github.com/G3eKLAZy/Mass-Directory-Scanner/files/7847542/README.txt)
