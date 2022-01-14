@@ -48,10 +48,10 @@ Install PHP packages open the terminal and type in as root:
     
 ##Greetings to my Org
 
-Devil's Pride Hacker|
-Security Exploiter|
-Pinoy Cyber DDOS|
-Razor Elite Team|
+Devil's Pride Hacker| 
+Security Exploiter| 
+Pinoy Cyber DDOS| 
+Razor Elite Team| 
 SQLi & Pentest Training Ground|
 
 
