@@ -2,15 +2,20 @@
 Admin and webshell Fuzzing Tools
   
 #a simple PHP scanner project created by L4ZYG33K with love.
+
 #This tools scan with Get method response only.
+
 #Scanning speed depends on your own internet connection
+
 #This tools can be useful it depends how you use it. So Use it wisely.
 
 
 ##Tested Only on the following distro
 
 Debian
+
 Kali linux
+
 Parrot Security
 
 
