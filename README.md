@@ -46,7 +46,7 @@ Install PHP packages open the terminal and type in as root:
      
      
     
-##Greetings to my Org
+##Greetings to all my organizational Anonymous Philippines Subgroup
 
 Devil's Pride Hacker| 
 Security Exploiter| 
@@ -55,4 +55,4 @@ Razor Elite Team|
 SQLi & Pentest Training Ground|
 
 
-
+We are Anonymous. We are legion. We do not forgive. We do not forget. Expect us.
